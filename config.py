@@ -1,4 +1,4 @@
-TOKEN = "7429518608:AAFMU2R_CyyLqPhWl2LJTWxTQVPU1DhSppk" # Токен бота
+TOKEN = "7505380728:AAFJKmdgV1JKaxuqCH6x2j9-TKdovAAWxbk" # Токен бота
 CHANNEL_ID = -1002243436081 # ID канала со ставками
 ADMINS = [5846969551] # ID админов
 BET_URL = "t.me/send?start=IVpAqLJ8Pztg" # Ссылка на счет
